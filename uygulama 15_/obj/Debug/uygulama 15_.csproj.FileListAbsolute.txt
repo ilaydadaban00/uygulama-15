@@ -1,0 +1,10 @@
+C:\Users\Seyda\source\repos\uygulama 15_\uygulama 15_\bin\Debug\uygulama 15_.exe.config
+C:\Users\Seyda\source\repos\uygulama 15_\uygulama 15_\bin\Debug\uygulama 15_.exe
+C:\Users\Seyda\source\repos\uygulama 15_\uygulama 15_\bin\Debug\uygulama 15_.pdb
+C:\Users\Seyda\source\repos\uygulama 15_\uygulama 15_\obj\Debug\uygulama 15_.csproj.AssemblyReference.cache
+C:\Users\Seyda\source\repos\uygulama 15_\uygulama 15_\obj\Debug\uygulama_15_.Form1.resources
+C:\Users\Seyda\source\repos\uygulama 15_\uygulama 15_\obj\Debug\uygulama_15_.Properties.Resources.resources
+C:\Users\Seyda\source\repos\uygulama 15_\uygulama 15_\obj\Debug\uygulama 15_.csproj.GenerateResource.cache
+C:\Users\Seyda\source\repos\uygulama 15_\uygulama 15_\obj\Debug\uygulama 15_.csproj.CoreCompileInputs.cache
+C:\Users\Seyda\source\repos\uygulama 15_\uygulama 15_\obj\Debug\uygulama 15_.exe
+C:\Users\Seyda\source\repos\uygulama 15_\uygulama 15_\obj\Debug\uygulama 15_.pdb
